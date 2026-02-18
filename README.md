@@ -2,6 +2,8 @@
 
 A small, pragmatic desktop GUI control helper for Linux **X11**.
 
+Built entirely by **Rylen’s OpenClaw**.
+
 It’s designed for “vision loop” automation:
 1) take a screenshot
 2) decide where to click
